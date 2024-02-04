@@ -1,4 +1,4 @@
-![logo](https://github.com/PrathameshZ900/PrathameshZ900/blob/main/Blue%20Modern%20Gradient%20Technology%20LinkedIn%20Banner.png)
+![logo](logo.png)
 
 <h1 align="center">Hi 👋, I'm Prathamesh Magar</h1>
 <h3 align="center">A passionate  developer </h3>
