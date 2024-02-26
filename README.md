@@ -5,7 +5,7 @@
 
 <p align="right"><img align="right" alt="coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
 
-- 👨‍💻 All of my projects are available at [https://prathameshz900res.netlify.app/](https://prathameshz900res.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://prathameshz900res.netlify.app/](https://prathameshm.netlify.app/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link](https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link)
 
