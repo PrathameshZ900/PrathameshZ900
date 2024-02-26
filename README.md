@@ -9,6 +9,18 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link](https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link)
 
+## 🚀 Quick Overview 🚀
+- 👨‍💻 I'm from Parabhani, Maharashtra.
+- 👨‍💻 Aspiring Full-stack Web Developer
+- 🌐 Web Enthusiast
+- 📚 Constant Learner
+- 🚀 Problem solver
+
+- 👨‍💻 All of my projects are available at (https://github.com/PrathameshZ900?tab=repositories)
+
+- 📫 Reach out to me at **prathameshma1@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@prathamesh2141" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@prathamesh2141" height="30" width="40" /></a>
@@ -21,6 +33,7 @@
 <a href="https://www.hackerearth.com/prathamesh magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prathamesh magar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratham8apn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratham8apn" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -49,6 +62,11 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
   </a> 
 </p>
+
+
+
+
+<h1 align="left">📊 GitHub Stats</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshz900&show_icons=true&locale=en&layout=compact" alt="prathameshz900" /></p>
 
