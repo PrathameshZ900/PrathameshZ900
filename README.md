@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://prathameshm.netlify.app/](https://prathameshm.netlify.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link](https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link]([https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link])(https://drive.google.com/file/d/1LdB57THpze5X5xMMAMcWqczgktnOpBQZ/view?usp=sharing))
 
 ## 🚀 Quick Overview 🚀
 - 👨‍💻 I'm from Parabhani, Maharashtra.
