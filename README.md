@@ -1,25 +1,37 @@
-![logo](logo.png)
+![Logo](logo.png)
+
 
 <h1 align="center">Hi 👋, I'm Prathamesh Magar</h1>
-<h3 align="center">A passionate Full-Stack developer (Algorithum Developer)</h3>
+<h3 align="center">A passionate Full-Stack Developer and Algorithm Enthusiast</h3>
 
-<p align="right"><img align="right" alt="coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> </p>
+<!-- Profile Views Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=PrathameshZ900&color=green" alt="Profile Views"/>
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://prathameshm.netlify.app/](https://prathameshm.netlify.app/)
+<p align="center">
+  <img align="center" alt="coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link]([https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link])(https://drive.google.com/file/d/1LdB57THpze5X5xMMAMcWqczgktnOpBQZ/view?usp=sharing))
 
-## 🚀 Quick Overview 🚀
-- 👨‍💻 I'm from Parabhani, Maharashtra.
-- 👨‍💻 Aspiring Full-stack Web Developer
-- 🌐 Web Enthusiast
-- 📚 Constant Learner
-- 🚀 Problem solver
+- 👨‍💻 All of my projects are available at [My Portfolio](https://prathameshm.netlify.app/)
 
-- 👨‍💻 All of my projects are available at (https://github.com/PrathameshZ900?tab=repositories)
+- 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link)
+
+## 🚀 Quick Overview
+- 🌍 Based in Parabhani, Maharashtra.
+- 🌐 Aspiring Full-stack Web Developer and Web Enthusiast.
+- 📚 Constant Learner, passionate about problem-solving.
 
 - 📫 Reach out to me at **prathameshma1@gmail.com**
 
+---
+
+<p align="center">
+  <a href="https://github.com/PrathameshZ900?tab=repositories"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" /></a>
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +45,6 @@
 <a href="https://www.hackerearth.com/prathamesh magar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="prathamesh magar" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pratham8apn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratham8apn" height="30" width="40" /></a>
 </p>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -63,13 +74,10 @@
   </a> 
 </p>
 
-
-
-
 <h1 align="left">📊 GitHub Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshz900&show_icons=true&locale=en&layout=compact" alt="prathameshz900" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshz900&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshz900&show_icons=true&locale=en" alt="prathameshz900" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathameshz900&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshz900" alt="prathameshz900" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshz900" alt="GitHub Streak" /></p>
