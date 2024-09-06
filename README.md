@@ -5,9 +5,14 @@
 <h3 align="center">A passionate Full-Stack Developer and Algorithm Enthusiast</h3>
 
 <!-- Profile Views Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=PrathameshZ900&color=green" alt="Profile Views"/>
-  </p>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=PrathameshZ900&color=green" 
+    alt="Profile Views" 
+    style="width: 150px; height: 30px;" 
+  />
+</p>
+
 
 <p align="center">
   <img align="center" alt="coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
