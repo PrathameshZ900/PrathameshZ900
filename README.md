@@ -1,4 +1,4 @@
-![Logo](logo.png)
+![Logo](https://files.oaiusercontent.com/file-SQCNjZXmDyFKqUjn3vniMu?se=2024-11-30T07%3A58%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D98c2db41-e283-405d-b7f1-95424975329b.webp&sig=MmLPnUUUPpjEBs8xoFvwnoDyJT5mx6a69CiC1KgIolY%3D)
 
 
 <h1 align="center">Hi 👋, I'm Prathamesh Magar</h1>
