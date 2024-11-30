@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img align="center" alt="coding animation" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  <img align="center" alt="coding animation" width="400" src="https://files.oaiusercontent.com/file-DegPuLVhgmj6oaV7DAdxW5?se=2024-11-30T07%3A55%3A15Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ddad6326f-4650-401a-a644-1fa958b3e685.webp&sig=tFpK7W3nqgdzPTmh9uR%2BXbS26ZB2AnIYyvmF5vc6rr8%3D">
 </p>
 
 
