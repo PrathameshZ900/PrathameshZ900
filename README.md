@@ -19,7 +19,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://prathameshm.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://prathameshz900.netlify.app/)
 
 - 📄 Know about my experiences from [My Resume](https://drive.google.com/file/d/1Q01l2eNt8HbtzlS9oMsNHht20mp_MZxp/view?usp=drive_link)
 
